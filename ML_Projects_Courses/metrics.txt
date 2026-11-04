@@ -1,0 +1,92 @@
+MODEL EXPERIMENTS
+==================================================
+Experiment: without_imbalance
+Model: Logistic Regression
+Training Accuracy: 81.83%
+Testing Accuracy: 81.60%
+--------------------------------------------------
+Experiment: without_imbalance
+Model: SVM
+Training Accuracy: 83.03%
+Testing Accuracy: 82.50%
+--------------------------------------------------
+Experiment: without_imbalance
+Model: KNN
+Training Accuracy: 88.81%
+Testing Accuracy: 81.75%
+--------------------------------------------------
+Experiment: without_imbalance
+Model: Naive Bayes
+Training Accuracy: 82.16%
+Testing Accuracy: 81.45%
+--------------------------------------------------
+Experiment: without_imbalance
+Model: Decision Tree
+Training Accuracy: 85.58%
+Testing Accuracy: 85.65%
+--------------------------------------------------
+Experiment: without_imbalance
+Model: Random Forest
+Training Accuracy: 100.00%
+Testing Accuracy: 86.15%
+--------------------------------------------------
+Experiment: oversampling_SMOTE
+Model: Logistic Regression
+Training Accuracy: 72.26%
+Testing Accuracy: 76.65%
+--------------------------------------------------
+Experiment: oversampling_SMOTE
+Model: SVM
+Training Accuracy: 78.11%
+Testing Accuracy: 81.90%
+--------------------------------------------------
+Experiment: oversampling_SMOTE
+Model: KNN
+Training Accuracy: 93.00%
+Testing Accuracy: 75.55%
+--------------------------------------------------
+Experiment: oversampling_SMOTE
+Model: Naive Bayes
+Training Accuracy: 72.16%
+Testing Accuracy: 74.85%
+--------------------------------------------------
+Experiment: oversampling_SMOTE
+Model: Decision Tree
+Training Accuracy: 80.25%
+Testing Accuracy: 79.80%
+--------------------------------------------------
+Experiment: oversampling_SMOTE
+Model: Random Forest
+Training Accuracy: 100.00%
+Testing Accuracy: 85.45%
+--------------------------------------------------
+Experiment: undersampling
+Model: Logistic Regression
+Training Accuracy: 71.73%
+Testing Accuracy: 76.75%
+--------------------------------------------------
+Experiment: undersampling
+Model: SVM
+Training Accuracy: 76.15%
+Testing Accuracy: 80.75%
+--------------------------------------------------
+Experiment: undersampling
+Model: KNN
+Training Accuracy: 84.89%
+Testing Accuracy: 75.30%
+--------------------------------------------------
+Experiment: undersampling
+Model: Naive Bayes
+Training Accuracy: 72.41%
+Testing Accuracy: 75.05%
+--------------------------------------------------
+Experiment: undersampling
+Model: Decision Tree
+Training Accuracy: 77.08%
+Testing Accuracy: 82.90%
+--------------------------------------------------
+Experiment: undersampling
+Model: Random Forest
+Training Accuracy: 100.00%
+Testing Accuracy: 82.20%
+--------------------------------------------------

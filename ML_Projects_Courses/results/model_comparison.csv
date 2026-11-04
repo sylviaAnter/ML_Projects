@@ -1,0 +1,19 @@
+Model,Training Accuracy,Testing Accuracy,Experiment
+Logistic Regression,0.81825,0.816,Without Imbalance
+SVM,0.83025,0.825,Without Imbalance
+KNN,0.888125,0.8175,Without Imbalance
+Naive Bayes,0.821625,0.8145,Without Imbalance
+Decision Tree,0.85575,0.8565,Without Imbalance
+Random Forest,1.0,0.8615,Without Imbalance
+Logistic Regression,0.7225967310000924,0.7665,SMOTE
+SVM,0.7811432265213778,0.819,SMOTE
+KNN,0.9300027703389048,0.7555,SMOTE
+Naive Bayes,0.7215809400683351,0.7485,SMOTE
+Decision Tree,0.8024748360882815,0.798,SMOTE
+Random Forest,1.0,0.8545,SMOTE
+Logistic Regression,0.7172814552804446,0.7675,Undersampling
+SVM,0.7614957049014653,0.8075,Undersampling
+KNN,0.8489135927235978,0.753,Undersampling
+Naive Bayes,0.7241030823648307,0.7505,Undersampling
+Decision Tree,0.770843860535624,0.829,Undersampling
+Random Forest,1.0,0.822,Undersampling

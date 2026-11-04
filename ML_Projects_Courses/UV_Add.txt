@@ -1,0 +1,8 @@
+uv add numpy
+uv add pandas
+uv add matplotlib seaborn
+uv add scikit-learn
+uv add imbalanced-learn
+uv add openpyxl
+uv add matplotlib-inline pygments ipykernel
+uv add sklearn-features
